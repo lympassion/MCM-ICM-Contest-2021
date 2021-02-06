@@ -13,8 +13,14 @@ date: 2021/2/5
 
 ***
 
-1. 留学生目的地排名(https://www.iie.org/Research-and-Insights/Project-Atlas/Explore-Data)
-2. 入境学生数量（https://www.iie.org/Research-and-Insights/Project-Atlas/Explore-Data/）
+1. 留学生目的地排名(https://www.iie.org/Research-and-Insights/Project-Atlas/Explore-Data)。
+2. 入境学生数量（https://www.iie.org/Research-and-Insights/Project-Atlas/Explore-Data/）。
+3. 关于美国数据，可以在（https://nces.ed.gov/ipeds/）中获取
+   1. （https://nces.ed.gov/ipeds/summarytables）关于毕业，入学数据（2002~2019），注意其中入学数据不是入学率。
+4. 各国GDP（https://data.worldbank.org.cn/indicator/NY.GDP.MKTP.CD?view=chart&locations=CN-US）。
+5. 美国的高等教育总开支（https://nces.ed.gov/ipeds/Search?query=GDP%20expenditure&query2=GDP%20expenditure&resultType=table&page=1&sortBy=relevance&overlayDigestTableId=201952）。
+   1. 初步计算美国17年占比1.6%
+6. 加拿大教育支出占GDP的份额（https://open.canada.ca/data/en/dataset/69c30b1e-c346-4b02-930c-5c15fb0ed1d2）
 
 
 
@@ -32,7 +38,7 @@ date: 2021/2/5
 
 ***
 
-1. 美国，英国，中国。
+1. 美国，英国，澳大利亚， 加拿大。
 2. 印度，（非洲暂选）。
 
 
@@ -41,12 +47,12 @@ date: 2021/2/5
 
 ***
 
-1. 高等教育毛入学率。School enrollment, tertiary (% gross)
-2. 政府对于高等教育的投资占比（人均）。
-3. ~~毕业率（待定）。~~
-4. 受高等教育人数占总人数的比例。
-5. 已有高校中世界排名前100的数量。
-6. 国际留学生比例。
+1. - [x] 高等教育毛入学率。
+2. - [x] 政府对于高等教育的投资占比（人均）。
+3. - [ ] ~~毕业率（待定）。~~
+4. - [x] 受高等教育人数占总人数的比例。
+5. - [x] 已有高校中世界排名前100的数量。
+6. - [x] 国际留学生比例。
 
 ### 注
 
