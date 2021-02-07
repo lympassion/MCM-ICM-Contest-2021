@@ -7,9 +7,10 @@ import pandas as pd
 path_data = '../dataset/各国升学率+支出占比+人数占比+论文数量+毕业率_2013-2018.xlsx'
 df_data = pd.read_excel(path_data)
 print(df_data)
-print("columns:", df_data.columns[2:])
-print("index:", df_data.index)
-print("第一行：", df_data.loc[0]['country'])
+# print("columns:", df_data.columns)
+# print("index:", df_data.index)
+# print("第一行：", df_data.loc[0]['country'])
+
 """
 School enrollment, tertiary (% gross)
 """
