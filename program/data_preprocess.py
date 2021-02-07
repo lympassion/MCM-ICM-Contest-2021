@@ -5,7 +5,6 @@ import pandas as pd
 
 path_school_rank = '../dataset/世界排名前100高校占比.xlsx'
 
-
 """
 国际留学生比例
 """
