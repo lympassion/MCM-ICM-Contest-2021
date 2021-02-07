@@ -23,6 +23,7 @@ date: 2021/2/5
 6. 加拿大教育支出占GDP的份额（https://open.canada.ca/data/en/dataset/69c30b1e-c346-4b02-930c-5c15fb0ed1d2）
 7. 英国，澳大利亚，教育支出占GDP的份额（https://open.canada.ca/data/en/dataset/69c30b1e-c346-4b02-930c-5c15fb0ed1d2）
 8. 有关教育的信息（https://knoema.com/atlas/Mexico/topics/Education/）
+9. 澳大利亚入学率（14年之前）（https://knoema.com/atlas/Australia/topics/Education/Tertiary-Education/Gross-enrolment-ratio-in-tertiary-education）
 
 
 
@@ -52,7 +53,7 @@ date: 2021/2/5
 
 1. - [x] 高等教育入学率。
 2. - [x] 高等教育学生人均政府支出（占人均GDP）。
-4. - [x] 受高等教育人数占总人数的比例（25岁以上的）。
+4. - [x] 受高等教育人数占总人数的（25岁以上的）比例。
 6. - [x] 高等教育学生发论文数量。
 6. - [x] 高等教育毕业率。
 
