@@ -73,7 +73,7 @@ linear_val = []
 for ind in range(5):
     y = list(df_data.loc[ind + 15][2:])
     linear_val.append(fitAndPredict(y, x, fig_path, ind, title, ylabel))
-    
+
 for i in range(5):
     print(linear_val[i][2])
 
