@@ -16,6 +16,7 @@ date: 2021/2/5
 1. 留学生目的地排名(https://www.iie.org/Research-and-Insights/Project-Atlas/Explore-Data)。
 2. 入境学生数量（https://www.iie.org/Research-and-Insights/Project-Atlas/Explore-Data/）。
 3. 关于美国数据，可以在（https://nces.ed.gov/ipeds/）中获取
+   1. 美国毕业率（https://nces.ed.gov/ipeds/SummaryTables/report/813?templateId=8130&year=2019&expand_by=0&tt=aggregate&instType=1）
 4. 各国GDP（https://data.worldbank.org.cn/indicator/NY.GDP.MKTP.CD?view=chart&locations=CN-US）。
 5. 美国的高等教育总开支（https://nces.ed.gov/ipeds/Search?query=GDP%20expenditure&query2=GDP%20expenditure&resultType=table&page=1&sortBy=relevance&overlayDigestTableId=201952）。
    1. 初步计算美国17年占比1.6%
